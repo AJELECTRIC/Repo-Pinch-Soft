@@ -1,0 +1,27 @@
+Package: com.PinchSoft.AppSync31
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: AJELECTRIC <pinchsofttech@gmail.com>
+Filename: /appsync31-1.0.1.deb
+Size: 296,542
+MD5sum: 534080636c26e40d3efbdf195f3bfdfb
+SHA1: 2e3be3668f26c9d4ac7b796042aa7b05184fe4ae
+SHA256: c0975018be2f1fe73eaeadce9a3c4ead17ab01b08eb41bd11a82b2f83c60fb70
+Section: Tweaks
+Description: Get Unsigned Apps Working With AppSync.
+Author: Pinch Soft
+Name: AppSync 3.1 For iOS 3+
+
+Package: com.tekwik.youtube_1.3.1_iphoneos-arm
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: AJELECTRIC <pinchsofttech@gmail.com>
+Filename: /YouTube1.3.1.deb
+Size: 313,298
+MD5sum: 0A3C1802848B95F4B9C2148AD172523B
+SHA1: 52B76FDB5781F8F5B28BB5D80C8F1FF7F9FCFE0F
+SHA256: 36767AC453E07E8602D2F9C75BC4ED3DB90D1B13BE7DC50DAD3C8EF42F2B9E95
+Section: Tweaks
+Description: Get The Old YouTube App Back, With YouTube Classic! Not Sure If This Works With iOS 7, I Know It Works On iOS 6 Though. Feel Free To Try It Out Though.
+Author: Pinch Soft
+Name: YouTube Classic (iOS 6+)
